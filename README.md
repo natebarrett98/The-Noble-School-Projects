@@ -12,8 +12,6 @@
 
 [Project 2 - Woodworking Nut GoKart V2](https://github.com/natebarrett98/The-Noble-School-Projects/tree/main/Project%202%20-%20Woodworking%20Nut%20GoKart%20V2)
 
-![IMG_1906](https://github.com/user-attachments/assets/51904df9-d9f1-4411-9693-8bd5719fbd23)
-![IMG_1906](https://github.com/user-attachments/assets/51904df9-d9f1-4411-9693-8bd5719fbd23)
 
 
 [Project 3 - Shop Vac Foundry](https://github.com/natebarrett98/The-Noble-School-Projects/tree/main/Project%203%20-%20Shop%20Vac%20Foundry)
