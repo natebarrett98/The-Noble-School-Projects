@@ -2,7 +2,7 @@
 
 > Projects that I have done throughout my career in professional evironments. Work content includes time series applications, traditional data analysis, and Data Research
 
-[Project 0 - Building a NAS Server](https://github.com/natebarrett98/My_Projects/tree/master/Charter%20Lookup%20Operator)
+[Project 0 - Building a NAS Server](https://github.com/natebarrett98/The-Noble-School-Projects/tree/main/Project%200%20-%20Nas%20Server)
 
 *Done with Columbia Law School (New York **Remote** ) 2020*
 
@@ -10,8 +10,8 @@
 
 *Done with D&B Paint Co. (Sacramento) 2018-2019*
 
-[Project 2 - Woodworking Nut GoKart V2](https://github.com/natebarrett98/My_Projects/blob/master/Current_OHLC_Func.py)
+[Project 2 - Woodworking Nut GoKart V2](https://github.com/natebarrett98/The-Noble-School-Projects/tree/main/Project%202%20-%20Woodworking%20Nut%20GoKart%20V2)
 
 *Done with Ornus Capital (Los Angeles) 2018*
 
-[Project 3 - Shop Vac Foundry](https://github.com/natebarrett98/My_Projects/blob/master/Daily_Count_Func.py)
+[Project 3 - Shop Vac Foundry](https://github.com/natebarrett98/The-Noble-School-Projects/tree/main/Project%203%20-%20Shop%20Vac%20Foundry)
