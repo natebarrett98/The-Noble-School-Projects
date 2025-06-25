@@ -8,7 +8,7 @@
 
 [Project 1 - Deep Water Culture Terperture and Humidity Sensor](https://github.com/natebarrett98/The-Noble-School-Projects/tree/main/Project%201%20-%20Deep%20Water%20Culture%20Temperature%20and%20Humidity%20Sensor)
 
-
+![alt text](https://github.com/natebarrett98/The-Noble-School-Projects/blob/main/Pictures/IMG_1906.jpg)
 
 [Project 2 - Woodworking Nut GoKart V2](https://github.com/natebarrett98/The-Noble-School-Projects/tree/main/Project%202%20-%20Woodworking%20Nut%20GoKart%20V2)
 
