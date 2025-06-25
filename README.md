@@ -6,7 +6,7 @@
 
 *Done with Columbia Law School (New York **Remote** ) 2020*
 
-[Project 1 - Deep Water Culture Terperture and Humidity Sensor](https://github.com/natebarrett98/My_Projects/blob/master/DB_Job_Report.py)
+[Project 1 - Deep Water Culture Terperture and Humidity Sensor](https://github.com/natebarrett98/The-Noble-School-Projects/tree/main/Project%201%20-%20Deep%20Water%20Culture%20Temperature%20and%20Humidity%20Sensor)
 
 *Done with D&B Paint Co. (Sacramento) 2018-2019*
 
