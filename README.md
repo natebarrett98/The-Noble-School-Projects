@@ -1,6 +1,5 @@
 # The Noble School Projects
 
-> Projects that I have done throughout my career in professional evironments. Work content includes time series applications, traditional data analysis, and Data Research
 
 [Project 0 - Building a NAS Server](https://github.com/natebarrett98/The-Noble-School-Projects/tree/main/Project%200%20-%20Nas%20Server)
 
